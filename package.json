@@ -1,0 +1,26 @@
+{
+  "name": "typescript_oop_hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "build": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihorsmyk/TypeScript_OOP_hw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ihorsmyk/TypeScript_OOP_hw/issues"
+  },
+  "homepage": "https://github.com/ihorsmyk/TypeScript_OOP_hw#readme",
+  "dependencies": {
+    "lite": "^4.0.5",
+    "server": "^1.0.38"
+  }
+}
